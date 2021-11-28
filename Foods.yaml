@@ -6,4 +6,8 @@
 
 FavouriteFoods:
   # Add the food to this list on this line, if possible.
+<<<<<<< HEAD
   - ["pizza", "kale_smoothies", "bacon", "cheese", "pie", "carbonara", "garlic_bread", "banana", "burrito","pasta"]
+=======
+  - ["pizza", "kale_smoothies", "bacon", "cheese", "pie", "carbonara", "garlic_bread", "banana", "burrito", "coffee", "chocolate", "chicken_schnitzel", "mango"]
+>>>>>>> main
