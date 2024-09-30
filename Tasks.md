@@ -42,6 +42,6 @@ Note that your PRs update automatically if you push commits to that branch on th
 
 10. Reply to someone else's comment on a PR. Let them know that their choice of food is good, or if it stinks.
 
-11. Merge the `main` branch into your branch. This should (hopefully in this case) make you deal with a merge conflict, which is where your branch changes the same line that another branch which was already merged into. You have to manually pick what changes your PR will make to those lines. **You might have to do this a few times, because I have set things up to make sure you deal with a merge conflict, which could cause you to have to deal with a few of them ¯\\_(ツ)_/¯**.
+11. Merge the `main` branch into your branch. This should (hopefully in this case) make you deal with a merge conflict, which is where your branch changes the same line that another branch which was already merged into. You have to manually pick what changes your PR will make to those lines. **You might have to do this a few times, because I have set things up to make sure you deal with a merge conflict, which could cause you to have to deal with a few of them ¯\\\_(ツ)_/¯**.
 
 12. When we get close to the end of our time, approve a PR, and merge yours into `main` once yours is approved. Once you've merged yours in, see if anyone else still going could use a hand and help them out.
